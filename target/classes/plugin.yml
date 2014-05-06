@@ -1,0 +1,6 @@
+name: WatchingPlugin
+version: 1.0.6-Dev
+website: http://bukkit-plugin.net
+main: net.bukkit_plugin.kojima1021.plugin.WatchingPlugin.Main
+author: kojima1021
+database: false
